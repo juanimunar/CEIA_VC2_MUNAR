@@ -25,7 +25,7 @@ Se trata de las pruebas realizadas inicialmente. Aquí aborde el problema del de
 
 [MODELO FINAL](https://github.com/juanimunar/CEIA_VC2_MUNAR/blob/main/tf-vpc2-munar-modelo-final.ipynb)
 
-Entrenamiento de una red ResNet18 afectando todos sus parámetros sobre un dataset balanceado con undersampling y oversampling. Los resultados son sorprendentemente buenos, superando ampliamente el accuracy que obtiene un médico a simple vista en todas las clases.
+Entrenamiento de una red ResNet18 afectando todos sus parámetros sobre un dataset balanceado con undersampling y oversampling. Los resultados son sorprendentemente buenos.
 
 **PRESENTACIÓN**
 
