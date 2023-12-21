@@ -6,7 +6,7 @@ CURSO DE ESPECIALIZACIÓN EN INTELIGENCIA ARTIFICIAL
 
 *Juan I. Munar, 11va Cohorte*
 
-**CONTENIDO.** En el presente repositorio se encuentra el trabajo final de la materia Visión por Computadora II del CEIA, dictada entre octubre y diciembre de 2023 por Los profesores:
+**CONTENIDO.** En el presente repositorio se encuentra el trabajo final de la materia Visión por Computadora II del CEIA, dictada entre octubre y diciembre de 2023 por los profesores:
 - Cavalieri Juan Ignacio
 - Cornet Juan Ignacio
 - Seyed Pakdaman
