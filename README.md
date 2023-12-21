@@ -19,7 +19,7 @@ Se encuentran los siguientes documentos:
 
 [PARTE 1 DE 2](https://github.com/juanimunar/CEIA_VC2_MUNAR/blob/main/tf-vpc2-munar-parte-1.ipynb), [PARTE 2 DE 2](https://github.com/juanimunar/CEIA_VC2_MUNAR/blob/main/tf-vpc2-munar-parte-2.ipynb):
 
-Se trata de las pruebas realizadas inicialmente. Aquí aborde el problema del desbalance de datos y el entrenamiento. Los resultados son pobres tanto por el desbalance de datos como por el Negative Transfer. A partir de estos golpes iniciales, llego a una conclusión sobre cómo entrenar un modelo funcional.
+Se trata de las pruebas realizadas inicialmente. Aquí abordé el problema del desbalance de datos y el entrenamiento. Los resultados son pobres tanto por el desbalance de datos como por *Negative Transfer*. A partir de estos golpes iniciales, llego a una conclusión sobre cómo entrenar un modelo funcional.
 
 **MODELO FINAL**
 
