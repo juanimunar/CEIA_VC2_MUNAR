@@ -33,7 +33,7 @@ Link: [PRESENTACIÓN](https://github.com/juanimunar/CEIA_VC2_MUNAR/blob/main/Pre
 
 Presentación modificada incluyendo información de los fracasos y del relativo éxito final.
 
-*LINKS DE KAGGLE:*
+**LINKS DE KAGGLE:**
 
 [PARTE 1](https://www.kaggle.com/code/jimalt/tf-vpc2-munar-parte-1)
 [PARTE 2](https://www.kaggle.com/code/jimalt/tf-vpc2-munar-parte-2)
