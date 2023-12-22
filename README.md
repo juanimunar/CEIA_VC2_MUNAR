@@ -17,19 +17,19 @@ Se encuentran los siguientes documentos:
 
 **DESARROLLO INICIAL** 
 
-[PARTE 1 DE 2](https://github.com/juanimunar/CEIA_VC2_MUNAR/blob/main/tf-vpc2-munar-parte-1.ipynb), [PARTE 2 DE 2](https://github.com/juanimunar/CEIA_VC2_MUNAR/blob/main/tf-vpc2-munar-parte-2.ipynb):
+Links: [PARTE 1 DE 2](https://github.com/juanimunar/CEIA_VC2_MUNAR/blob/main/tf-vpc2-munar-parte-1.ipynb), [PARTE 2 DE 2](https://github.com/juanimunar/CEIA_VC2_MUNAR/blob/main/tf-vpc2-munar-parte-2.ipynb):
 
 Se trata de las pruebas realizadas inicialmente. Aquí abordé el problema del desbalance de datos y el entrenamiento. Los resultados son pobres tanto por el desbalance de datos como por *Negative Transfer*. A partir de estos golpes iniciales, llego a una conclusión sobre cómo entrenar un modelo funcional.
 
 **MODELO FINAL**
 
-[MODELO FINAL](https://github.com/juanimunar/CEIA_VC2_MUNAR/blob/main/tf-vpc2-munar-modelo-final.ipynb)
+Link: [MODELO FINAL](https://github.com/juanimunar/CEIA_VC2_MUNAR/blob/main/tf-vpc2-munar-modelo-final.ipynb)
 
 Entrenamiento de una red ResNet18 afectando todos sus parámetros sobre un dataset balanceado con undersampling y oversampling. Los resultados son sorprendentemente buenos.
 
 **PRESENTACIÓN**
 
-[PRESENTACIÓN](https://github.com/juanimunar/CEIA_VC2_MUNAR/blob/main/Presentacion%20SkinCancerHAM10000.pptx)
+Link: [PRESENTACIÓN](https://github.com/juanimunar/CEIA_VC2_MUNAR/blob/main/Presentacion%20SkinCancerHAM10000.pptx)
 
 Presentación modificada incluyendo información de los fracasos y del relativo éxito final.
 
